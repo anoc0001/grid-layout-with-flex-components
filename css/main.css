@@ -27,7 +27,7 @@ body {
     font-size: 4rem;
   }
   
-/* Adding my style */
+/* Adding my styles */
 .emojis {
   display:grid;
   grid-template-columns: repeat(2, 1fr);
